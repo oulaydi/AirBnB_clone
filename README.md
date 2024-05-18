@@ -263,10 +263,10 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>Oussama Oulaydi</summary>
     <ul>
     <li><a href="https://www.github.com/oulaydi">Github</a></li>
-    <li><a href="https://www.twitter.com/oulaybat_205">Twitter</a></li>
+    <li><a href="https://www.twitter.com/oulaybat_o">Twitter</a></li>
     <li><a href="mailto:oussama.oulaydi@gmail.com">e-mail</a></li>
     </ul>
 </details>
